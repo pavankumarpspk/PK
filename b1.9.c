@@ -9,4 +9,5 @@ int main()
       sum=sum+a[i];
 	}
 	printf("The sum of k integers is %d:",sum);
+	return 0;
 }
